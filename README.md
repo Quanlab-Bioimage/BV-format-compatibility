@@ -1,5 +1,20 @@
 # BV-format-compatibility
 
+## Overview
+
+**Integration of  BV format into Napari and Fiji, more details about BV format can be seen in [BioimageVision](https://github.com/Quanlab-Bioimage/BioimageVision)**
+
+## Environmental requirements
+
+* Operating system: windows
+* python==3.9
+
+## Hardware Requirements
+**The library requires only about 16 GB of RAW computer for minimum performance, and the following specifications are recommended for best performance**
+
+* RAM: 128+ GB
+* CPU: 8+ cores, over 3.50 GHz/core
+
 ## napari-BVdata
 
 ### Install:
@@ -69,6 +84,14 @@ Some parameters have to be set in script.py
 `level:                scale level for loaded BV data.`
 
 `{min_x, max_x, min_y, max_y, min_z, max_z}: parameters for ROI`
+
+
+
+## Technique Help
+
+[cailin0227@hust.edu.cn](cailin0227@hust.edu.cn)
+
+
 
 
 
