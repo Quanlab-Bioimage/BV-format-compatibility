@@ -22,4 +22,13 @@ Run following code in terminal:
 
 ``` python script.py```
 
-!![1](./imgs/1.JPG)
+<img src="./imgs/1.JPG" alt="1" style="zoom:80%;" />
+
+Click ```Load(napari-BVdata)``` in ```Plugins``` :
+
+![](./imgs/2.JPG)
+
+
+
+
+
