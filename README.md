@@ -22,4 +22,4 @@ Run following code in terminal:
 
 ``` python script.py```
 
-!![1](*/imgs/1.JPG)
+!![1](./imgs/1.JPG)
