@@ -28,6 +28,14 @@ Click ```Load(napari-BVdata)``` in ```Plugins``` :
 
 ![](./imgs/2.JPG)
 
+Click ```Browse``` to choose BV data in computer.  Input region of interests and scale level in ```Setting ROI```:
+
+<img src="./imgs/4.jpg" style="zoom:80%;" />
+
+click ``` OK``` :
+
+<img src="./imgs/5.jpg" style="zoom:80%;" />
+
 
 
 
