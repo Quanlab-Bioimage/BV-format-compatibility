@@ -58,8 +58,6 @@ click ``` OK``` :
 
    ![6](./imgs/6.JPG)
 
-   ./
-
 ## Usage:
 
 Some parameters have to be set in script.py
