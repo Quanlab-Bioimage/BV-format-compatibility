@@ -34,7 +34,7 @@ Click ```Browse``` to choose BV data in computer.  Input region of interests and
 
 click ``` OK``` :
 
-<img src="./imgs/5.jpg" style="zoom:80%;" />
+<img src="./imgs/5.JPG" style="zoom:80%;" />
 
 ## Fiji-BVdata
 
@@ -56,7 +56,7 @@ click ``` OK``` :
 
    ``` python script.py```
 
-   ![6](./imgs/6.jpg)
+   ![6](./imgs/6.JPG)
 
    ./
 
