@@ -85,11 +85,9 @@ Some parameters have to be set in script.py
 
 `{min_x, max_x, min_y, max_y, min_z, max_z}: parameters for ROI`
 
-
-
 ## Technique Help
 
-[cailin0227@hust.edu.cn](cailin0227@hust.edu.cn)
+Contact [cailin0227@hust.edu.cn](cailin0227@hust.edu.cn) for technique help.
 
 
 
